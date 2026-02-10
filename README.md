@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 # 👋 Hi there, I'm Jehan Afwazi
 
 Software Engineer | Backend Developer | DevOps | Lecturer
+
 Building reliable, scalable applications with clean, maintainable code. 
 Passionate about solving complex problems, automation, teaching, and open source collaboration.
 
