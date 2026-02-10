@@ -49,7 +49,9 @@ Git • Docker • REST API • SQL • NoSql • Kubernetes
 ## 📌 Pinned Projects
 
 <!-- Replace these with links to your own Github repositories -->
-- [DRM Blockchain](https://github.com/wzije/drmchain-dapp) – Aplikasi terdesentralisasi (DApp) sederhana yang mengimplementasikan sistem Perlindungan Hak Cipta Buku Digital berbasis blockchain (DRM untuk buku PDF).
+- [DRM Blockchain](https://github.com/wzije/drmchain-dapp)
+
+  Aplikasi terdesentralisasi (DApp) sederhana yang mengimplementasikan sistem Perlindungan Hak Cipta Buku Digital berbasis blockchain (DRM untuk buku PDF).
 
 ---
 
